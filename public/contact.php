@@ -15,5 +15,9 @@
       </ul>
     </div>
   </header>
+	<main>
+		<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+<script type="IN/Share" data-url="https://www.linkedin.com/in/melg-0686aa151/"></script>
+	</main>
 </body>
 </html>
